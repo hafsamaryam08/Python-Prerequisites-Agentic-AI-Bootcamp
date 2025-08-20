@@ -1,0 +1,11 @@
+Iterators
+
+Iterators are advanced Python concepts that allow for efficient looping and memory management. 
+
+Iterators provide a way to access elements of a collection sequentially without exposing the underlying structure.
+
+Generators
+
+Generators are a simpler way to create iterators. 
+
+They use the yield keyword to produce a series of values lazily, which means they generate values on the fly and do not store them in memory.
