@@ -63,12 +63,3 @@ It covers all essential Python concepts needed before diving into AI/ML and Agen
 - Logging with Multiple Loggers
 - Logging with Real-World Examples
 
----
-
-## 🛠 How to Use
-Each topic has its own Python scripts and examples. You can clone the repository and run the scripts directly:
-
-```bash
-git clone https://github.com/your-username/Python-Prerequisites.git
-cd Python-Prerequisites
-python filename.py
